@@ -33,8 +33,8 @@ Get-Volume
 ```
 
 ### Required Specifications
-- **GPU**: NVIDIA RTX 3090 TI (24GB VRAM) ✓
-- **System RAM**: 64GB minimum ✓
+- **GPU**: NVIDIA RTX 3090 TI (24GB VRAM) or above
+- **System RAM**: 64GB minimum
 - **Storage**: 500GB+ free space for models and fragments
 - **OS**: Windows 11 (with WSL2 recommended) or Linux
 - **Python**: 3.10 or 3.11 (avoid 3.12 for compatibility)

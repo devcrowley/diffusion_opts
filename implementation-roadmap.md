@@ -75,7 +75,7 @@ Phase 4: Production (Weeks 21-24)
 ---
 
 ## Phase 1: Foundation
-**Duration**: 4 weeks  
+**Duration**: 4 weeks, with potential decreases in timeframe with LLM copiloting.   
 **Goal**: Establish development environment and prove basic concept feasibility
 
 ### Week 1: Environment Setup and Research
