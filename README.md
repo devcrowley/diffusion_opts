@@ -29,7 +29,7 @@ Documentation & architecture phase. Implementation will proceed through a conser
 - Phase 3: Optimization (memory, performance, advanced caching)
 - Phase 4: Production hardening & community release
 
-See: `diffusion-model-optimization-whitepaper.md`, `technical-architecture.md`, `implementation-roadmap.md`.
+See: `whitepaper.md`, `architecture.md`, `roadmap.md`.
 
 ## Fragment Manifest (Snapshot)
 ```json
