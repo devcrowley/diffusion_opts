@@ -70,5 +70,9 @@ TBD (likely Apache 2.0 or MIT once prototype stabilizes).
 ---
 For detailed rationale and deeper architecture, consult the included markdown documents.
 
+* **whitepaper.md** - A Technical Whitepaper on Memory-Efficient AI Image Generation
+* **architecture.md** - Technical Architecture: Dynamic Diffusion Model Optimization
+* **roadmap.md** - Implementation Roadmap: Dynamic Diffusion Model Optimization
+
 ## Contact
 [devin@devincrowley.com](mailto:devin@devincrowley.com)
