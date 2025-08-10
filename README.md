@@ -62,7 +62,7 @@ CLIP similarity, LPIPS, SSIM, peak VRAM, latency, batch throughput, reuse pass r
 - Optional low-rank / mixed precision (LoRA-style decomposition)
 
 ## Contributing (Future)
-Early phases are experimental. Once core pipeline stabilizes a contribution guide and baseline benchmark suite will be published.
+Early phases are experimental. Once core pipeline stabilizes, a contribution guide and baseline benchmark suite will be published.
 
 ## License
 TBD (likely Apache 2.0 or MIT once prototype stabilizes).
